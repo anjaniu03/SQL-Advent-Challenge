@@ -1,4 +1,4 @@
-#SQL-Advent-Challenge
+# SQL-Advent-Challenge
 
 **Author**: Anjani Upadhyay
 
